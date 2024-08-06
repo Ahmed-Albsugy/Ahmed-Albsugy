@@ -13,10 +13,10 @@
 
 
 
-- ✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
+✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
 
-- ## 👨‍💻 Graduated from **DEPI & MCIT**.  
-- ## 🛠️ Skills
+## 👨‍💻 Graduated from **DEPI & MCIT**.  
+## 🛠️ Skills
 
   - HTML, CSS, JavaScript
   - React, Vue.js, Angular
@@ -26,12 +26,12 @@
 
 
   
-- 🎯 **Career Goals**:
+🎯 **Career Goals**:
   - Help People to spread their work widely online.
   - Help People to develop their Work.
   - Develop my business and help people around the world.
     
-- 📚 **Hobby**: I love reading books.
+📚 **Hobby**: I love reading books.
 
 
 ---
