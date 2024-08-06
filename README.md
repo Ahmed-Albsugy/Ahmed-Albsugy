@@ -3,7 +3,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Abdul-ghaffar's profile!
+  👋 Welcome to Ahmed Albsugy's profile! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,25 +14,31 @@
 
 
 
-- 🏢 **Mansoura University - Faculty of Engineering**
-- 👨‍💻 **Aspiring Computer and Control Systems Engineer**, currently studying frontend development through Almdrasa.
+- ✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
+  
+- ## 🛠️ Skills
+
+- HTML, CSS, JavaScript
+- React, Vue.js, Angular
+- Sass, Tailwind CSS
+- Git, GitHub
+  
+- 👨‍💻 Graduated from **DEPI & MCIT**.
 - 💬 **Ask me about**:
-  - My experience with **Python, HTML, CSS, and C**
-  - **Smart Home** and **Sumo Robot** projects
-- 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
+  
 - 🎯 **Career Goals**:
-  - **Short-term**: Complete the frontend development diploma from Almdrasa.
-  - **Long-term**: Explore advanced fields like **AI and ML** and eventually build my own business.
+  - Help People to spread their work widely online.
+  - Develop my business and help people around the world.
+    
 - 📚 **Hobby**: I love reading books.
-- 🍵 **Fun Fact**: I love tea.
-- 🌟 **Unique Experience**: Earned a scholarship from the University of Science and Technology at Zewail City after finishing secondary school but decided to pursue my current path.
+
 
 ---
 
 
-### Connect with Me :
+### Feel free to contact Me :
 
-<a href="https://www.linkedin.com/in/ahmed-abdul-ghaffar-79535b23a" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedhassanalbsugy" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ahmed_Mahmoud_Abdulghaffar" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
@@ -43,7 +49,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript%20-05122A?style=flat&logo=javascript)&nbsp;
 
 
 
