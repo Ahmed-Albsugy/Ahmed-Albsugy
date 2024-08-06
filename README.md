@@ -28,6 +28,7 @@
   
 - 🎯 **Career Goals**:
   - Help People to spread their work widely online.
+  - Help People to develop their Work.
   - Develop my business and help people around the world.
     
 - 📚 **Hobby**: I love reading books.
