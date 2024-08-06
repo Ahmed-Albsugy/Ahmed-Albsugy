@@ -14,16 +14,17 @@
 
 
 - ✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
-  
+
+- ## 👨‍💻 Graduated from **DEPI & MCIT**.  
 - ## 🛠️ Skills
 
-- HTML, CSS, JavaScript
-- React, Vue.js, Angular
-- Sass, Tailwind CSS
-- Git, GitHub
+  - HTML, CSS, JavaScript
+  - React, Vue.js, Angular
+  - Sass, Tailwind CSS
+  - Git, GitHub
   
-- 👨‍💻 Graduated from **DEPI & MCIT**.
-- 💬 **Ask me about**:
+
+
   
 - 🎯 **Career Goals**:
   - Help People to spread their work widely online.
@@ -53,10 +54,10 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdul-ghaffar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Albsugy&show_icons=true&locale=en&layout=compact&theme=radical%22%20alt=%22most%20used%20languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Ahmed-Albsugy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed-Albsugy&style=for-the-badge">
 </a>
 <!--
 **Ahmed-Albsugy/Ahmed-Albsugy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
