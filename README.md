@@ -13,6 +13,9 @@
 
 
 
+
+
+
 ✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
 
 ## 👨‍💻 Graduated from **DEPI & MCIT**.  
