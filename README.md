@@ -63,7 +63,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,git,github,materialui,vscode,solidjs,webflow,figma,ai,nodejs,npm,postman,linux,ubuntu,bash,discord,obsidian,stackoverflow&perline=15)](https://skillicons.dev)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Albsugy&hide=TeX&layout=compact&theme=tokyonight)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Albsugy&show_icons=true&locale=en&layout=compact&theme=radical%22%20alt=%22most%20used%20languages" />
 <br>
