@@ -60,7 +60,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;-->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,git,github,materialui,vscode,solidjs,webflow,figma,ai,nodejs,npm,postman,linux,ubuntu,bash,discord,obsidian,stackoverflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,git,github,materialui,vscode,solidjs,webflow,figma,ai,nodejs,npm,postman,linux,ubuntu,bash,discord,obsidian,stackoverflow&perline=15)](https://skillicons.dev)
 
 
 
