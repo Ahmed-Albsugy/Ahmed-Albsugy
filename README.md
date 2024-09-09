@@ -1,7 +1,9 @@
 <h3 align="center">
-## Hi there 👋
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="300" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+
+
 
 <h3 align="center">
   👋 Welcome to Ahmed Albsugy's profile! 👋
