@@ -5,6 +5,7 @@
 
 
 
+
 <h3 align="center">
   👋 Welcome to Ahmed Albsugy's profile! 👋
 </h3>
@@ -13,6 +14,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20development;Always%20learning%20new%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+
+
+
+
 
 
 
