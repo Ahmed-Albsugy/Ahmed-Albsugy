@@ -1,6 +1,6 @@
 <h3 align="center">
 
-<img width="300" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
 
