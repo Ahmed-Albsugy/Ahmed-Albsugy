@@ -1,5 +1,3 @@
-<h3 align="center">
-
 <img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
@@ -14,16 +12,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20development;Always%20learning%20new%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-
-
-
-
-
-
-
-
-
 
 ✨ **A passionate Front-end Developer** focused on building responsive and accessible web applications. I enjoy working with modern JavaScript frameworks and   exploring new technologies.
 
