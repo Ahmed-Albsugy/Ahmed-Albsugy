@@ -54,9 +54,9 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;-->
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; materialui-->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,git,github,materialui,vscode,solidjs,webflow,figma,ai,nodejs,npm,postman,linux,ubuntu,bash,discord,obsidian,stackoverflow&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,git,github,vscode,solidjs,webflow,figma,ai,nodejs,npm,postman,linux,ubuntu,bash,discord,obsidian,stackoverflow&perline=15)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Albsugy&hide=TeX&layout=compact&theme=tokyonight)
